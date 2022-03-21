@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rkazirut.
-- 👀 I’m interested in things.
+- 👋 Hi, I’m @rkazirut
+- 👀 I’m interested in things
 - 🌱 I’m currently taking this course -> [Decoding DevOps](https://www.udemy.com/course/decodingdevops/)
-- 💞️ I’m looking to collaborate on automated testing.
+- 💞️ I’m looking to collaborate on automated testing
 
 <!---
 rkazirut/rkazirut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
