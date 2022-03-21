@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rkazirut.
 - 👀 I’m interested in things.
-- 🌱 I’m currently learning vagrant, bash scripting.
+- 🌱 I’m currently taking this course -> [Decoding Devops](https://www.udemy.com/course/decodingdevops/)
 - 💞️ I’m looking to collaborate on automated testing.
 
 <!---
